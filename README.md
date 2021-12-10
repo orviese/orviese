@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @orviese
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java nodejs vuejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java and front end fundamentals
 - 📫 How to reach me orvie.salgado@udea.edu.co
 
 <!---
